@@ -11,7 +11,7 @@ l.a.createElement("div",{className:"remaining"})),l.a.createElement("div",{class
 
 r=[
 
-  {id:1,title:"A Lonely Robot In A Control Room - Astronaut Ape",trackURL:"https://raw.githubusercontent.com/ahmednooor/music-player-react/gh-pages/static/media/A-Lonely-Robot-In-A-Control-Room-Astronaut-Ape.00eaa4af.mp3",isFavourite:!1},
+  {id:1,title:"Spoiler Alarm Ep.1 - Idil Durden",trackURL:"https://github.com/elmaninja/acigarageradio/blob/master/spoiler-alarm/Spoiler%20Alarm%20-%20Tarantino%20Ep.1.mp3",isFavourite:!1},
 
   {id:2,title:"Air - Astronaut Ape",trackURL:"https://raw.githubusercontent.com/ahmednooor/music-player-react/gh-pages/static/media/Air-Astronaut-Ape.a2cb96cd.mp3",isFavourite:!0},
 
