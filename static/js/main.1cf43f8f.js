@@ -2,7 +2,7 @@
 
 r=[
 
-  {id:1,title:"Spoiler Alarm Ep.1 - Idil Durden",trackURL:"https://github.com/elmaninja/acistudentpodcasts/raw/gh-pages/static/media/Tarantino%20-%20Spoiler%20Alarm%20Anchor.mp3",isFavourite:!1},
+  {id:1,title:"Spoiler Alarm Ep.1 - Idil Durden",trackURL:"https://github.com/elmaninja/acistudentpodcasts/raw/gh-pages/static/media/Tarantino%20-%20Spoiler%20Alarm%20Anchor.mp3",isFavourite:!0},
 
   {id:2,title:"Stair Vibes Ep.1 - Idil Durden",trackURL:"https://github.com/elmaninja/acistudentpodcasts/raw/gh-pages/static/media/Stair%20vibes%20bo%CC%88lu%CC%88m%201.m4a",isFavourite:!0},
 
