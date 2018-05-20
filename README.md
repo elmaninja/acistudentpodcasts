@@ -1,5 +1,6 @@
 # ACIGarage Radio - Student Podcasts Player
-Music Player ~ React Exploration
+Audio Player created with React
+
 
 
 Originally created by:
