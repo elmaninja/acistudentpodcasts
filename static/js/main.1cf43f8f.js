@@ -4,12 +4,11 @@ r=[
 
   {id:1,title:"Spoiler Alarm Ep.1 - Idil Durden",trackURL:"https://github.com/elmaninja/acistudentpodcasts/raw/gh-pages/static/media/Tarantino%20-%20Spoiler%20Alarm%20Anchor.mp3",isFavourite:!1},
 
-  {id:2,title:"Air - Astronaut Ape",trackURL:"https://raw.githubusercontent.com/ahmednooor/music-player-react/gh-pages/static/media/Air-Astronaut-Ape.a2cb96cd.mp3",isFavourite:!0},
+  {id:2,title:"Stair Vibes Ep.1 - Idil Durden",trackURL:"https://github.com/elmaninja/acistudentpodcasts/raw/gh-pages/static/media/Stair%20vibes%20bo%CC%88lu%CC%88m%201.m4a",isFavourite:!0},
 
-  {id:3,title:"Ben Sound - SciFi",trackURL:"https://raw.githubusercontent.com/ahmednooor/music-player-react/gh-pages/static/media/bensound-scifi.89932737.mp3",isFavourite:!0},
+  {id:3,title:"Müzik Sohbet / Atıl Çelik - Irem Coker, Ozgenur Celik",trackURL:"https://github.com/elmaninja/acistudentpodcasts/raw/gh-pages/static/media/Atil%20Celik%20-%20Roportaj.mp3",isFavourite:!0},
 
-  {id:4,title:"BK 42 Space Outpost - Astronaut Ape",trackURL:"https://raw.githubusercontent.com/ahmednooor/music-player-react/gh-pages/static/media/BK-42-Space-Outpost-Astronaut-Ape.7b317a42.mp3",isFavourite:!1},
-
+  
 
 
 ]
