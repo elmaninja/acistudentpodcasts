@@ -1,15 +1,8 @@
-# music-player-react
+# ACIGarage Radio - Student Podcasts Player
 Music Player ~ React Exploration
 
 
-## Demo Link
-> `Open in Mobile View`
-
-> https://ahmednooor.github.io/music-player-react/
+Originally created by:
+https://github.com/ahmednooor
 
 
-## Credits
-> Audio Tracks taken from,
-* [Astronaut Ape](https://soundcloud.com/astronaut-ape)
-* [DL Sounds](https://www.dl-sounds.com/)
-* [Jukedeck](https://www.jukedeck.com/)
