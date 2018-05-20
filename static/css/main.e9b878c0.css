@@ -8,3 +8,7 @@
 Player .volume-container {
   display:none;
 }
+
+.TracksList .search-ctr {
+  display:none;
+}
